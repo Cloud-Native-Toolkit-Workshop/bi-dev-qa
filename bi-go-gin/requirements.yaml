@@ -1,4 +1,4 @@
 dependencies:
   - name: bi-go-gin
-    version: 0.0.3
-    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/cloudnativetoolkitreg
+    version: 0.0.4
+    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/bi-dev
